@@ -9,3 +9,4 @@ I'm a Frontend Developer who enjoys learning new things in this field. As a Fron
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=enalmarzuki&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enalmarzuki&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=enalmarzuki)](https://github.com/anuraghazra/github-readme-stats)
