@@ -1,4 +1,4 @@
-### Hi there, I'm [Marzuki] 👋
+### Hi there, I'm Marzuki 👋
 
 I'm a Frontend Developer who enjoys learning new things in this field. As a Frontend Developer I'm used to using React in building applications.
 
